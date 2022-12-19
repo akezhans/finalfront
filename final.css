@@ -1,0 +1,78 @@
+nav{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-right: 50px;
+}
+a{
+    text-decoration: none;
+    color: rgb(57, 57, 57);
+}
+.mini-containere{
+    border: 2px solid silver;
+    border-radius: 20px 20px 0 0 ;
+}
+.mini-photo_souse{
+    border-radius: 20px 20px 0 0 ;
+}
+.nav1{
+    background-color: silver;
+    border: none;
+    border-radius: 15px;
+    color: rgb(50, 50, 50);
+    font-size: 20px;
+}
+.nav1:hover{
+    background-color: rgb(81, 81, 81);
+}
+.opisanie{
+    max-width: 260px;
+}
+.main{
+    margin-left: 200px;
+    margin-right: 200px;
+    width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+}
+.mini-photo{
+    width: 250px;
+    /* height: 250px; */
+    border-radius: 20px;
+}
+.mini-photo_souse{
+    width: 250px;
+}
+.goBack{
+    font-size: 45px;
+    border: none;
+}
+.goBack:hover{
+    background-color: red;
+}
+.price-container{
+    display: flex; 
+    align-items: center;
+    gap: 100px;
+}
+.price{
+    font-size: 25px;
+}
+.korzina{
+    background-color: yellow;
+    border: none;
+    border-radius: 15px;
+    font-size: 15px;
+}
+.korzina:hover{
+    color: red;
+    animation: backwards;
+}
+.count-buttoms{
+    background-color: rgba(255, 255, 0, 0);
+    border: none;
+    font-size: 25px;
+    font-weight: 100;
+}
