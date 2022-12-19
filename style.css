@@ -90,9 +90,10 @@ a{
 
 .slider{
     width: 1600px;
-    height: 600px;
+    height: 700px;
     overflow: hidden;
     border: 10px solid rgb(255, 255, 255);
+    margin-top: 100px;
 }
 .middle{
     position: absolute;
