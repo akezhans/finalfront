@@ -10,6 +10,13 @@ a{
     text-decoration: none;
     color: rgb(57, 57, 57);
 }
+.hfhf{
+    position: relative;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+}
 .mini-containere{
     border: 2px solid silver;
     border-radius: 20px 20px 0 0 ;
