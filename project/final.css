@@ -65,6 +65,7 @@ a{
 .mini-photo{
     width: 250px;
     /* height: 250px; */
+    margin-bottom: 80px;
     border-radius: 20px;
 }
 .mini-photo_souse{
