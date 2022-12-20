@@ -125,7 +125,7 @@ a{
 @media screen and (max-width: 850px){
     .footer2{
         display: inline;
-        width: 78%;
+        width: 100%;
     }
     .footer_text2{
         margin-left: 11%;
