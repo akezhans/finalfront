@@ -11,9 +11,11 @@ a{
 .mini-containere{
     border: 2px solid silver;
     border-radius: 20px 20px 0 0 ;
+    height: 500px;
 }
 .mini-photo_souse{
     border-radius: 20px 20px 0 0 ;
+    margin-bottom: 70px;
 }
 .nav1{
     background-color: silver;
@@ -39,11 +41,13 @@ a{
 }
 .mini-photo{
     width: 250px;
-    /* height: 250px; */
+    height: 250px;
     border-radius: 20px;
+    margin-bottom: 80px;
 }
 .mini-photo_souse{
     width: 250px;
+    height: 250px
 }
 .goBack{
     font-size: 45px;
