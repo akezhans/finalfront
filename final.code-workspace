@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "final",
+			"path": "../../../../Downloads/Telegram Desktop/final/final"
+		},
+		{
+			"name": "finalfront",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "finalfront"
+	}
+}
